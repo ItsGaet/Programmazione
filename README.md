@@ -19,7 +19,7 @@ A step-by-step guide explaining how to get the development environment up and ru
 
 ```
 $ Connect or download the repositories
-$ Extract the programme you are interested in
+$ Extract the program you are interested in
 $ Run the code!
 ```
 
