@@ -29,4 +29,7 @@ $ Run the code!
 
 ### Time Sequence
 
-1. [Hello World!](HelloWorld.c)
+1. [Hello World](HelloWorld.c)
+2. [Calculator 1](Calculator.c)
+3. [Calculator 2](Calculator2.c)
+ 
