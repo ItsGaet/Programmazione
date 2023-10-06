@@ -1,7 +1,7 @@
-# Programmazione
+# Programming
 
-Questa repository conterrà tutte le esercitazioni pratiche svolte ed eseguite nel corso del trimestre di programmazione.
-Corso seguito con il Prof. Bochicchio all'UNIBA
+This repository will contain all the practical exercises carried out and executed during the programming term.
+Course taken with Prof. Bochicchio at UNIBA
 
 ## Getting Started
 
