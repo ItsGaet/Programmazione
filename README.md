@@ -32,5 +32,6 @@ $ Run the code!
 1. [Hello World](HelloWorld.c)
 2. [Calculator 1](Calculator.c)
 3. [Calculator 2](Calculator2.c)
-4. [Square](Square.c)
+4. [3 int Comparing](Confronto-3-Numeri.c)
+5. [Square](Square.c)
  
