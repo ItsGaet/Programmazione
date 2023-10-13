@@ -34,4 +34,5 @@ $ Run the code!
 3. [Calculator 2](Calculator2.c)
 4. [3 int Comparing](Confronto-3-Numeri.c)
 5. [Square](Square.c)
+6. [Triangles](Triangolo.c)
  
